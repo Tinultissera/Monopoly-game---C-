@@ -1,0 +1,31 @@
+﻿  Assignment.cpp
+  Bank.cpp
+  BonusSquare.cpp
+  CProperties.cpp
+  CSquare.cpp
+  FreeParkingSquare.cpp
+  Game.cpp
+E:\advance programing\Assignment\Assignment\Assignment\Game.cpp(48,42): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+E:\advance programing\Assignment\Assignment\Assignment\Game.cpp(52,42): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+E:\advance programing\Assignment\Assignment\Assignment\Game.cpp(56,42): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+E:\advance programing\Assignment\Assignment\Assignment\Game.cpp(60,23): warning C4018: '<': signed/unsigned mismatch
+E:\advance programing\Assignment\Assignment\Assignment\Game.cpp(297,23): warning C4018: '<': signed/unsigned mismatch
+E:\advance programing\Assignment\Assignment\Assignment\Game.cpp(316,23): warning C4018: '<': signed/unsigned mismatch
+E:\advance programing\Assignment\Assignment\Assignment\Game.cpp(318,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\advance programing\Assignment\Assignment\Assignment\Game.cpp(330,23): warning C4018: '<': signed/unsigned mismatch
+E:\advance programing\Assignment\Assignment\Assignment\Game.cpp(333,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  GoToJailSquare.cpp
+  JailSquare.cpp
+  MoneyAction.cpp
+  MoveAction.cpp
+  PenaltySquare.cpp
+  Player.cpp
+  StationSquare.cpp
+  Generating Code...
+E:\advance programing\Assignment\Assignment\Assignment\Game.cpp(65): warning C4715: 'Game::getLocation': not all control paths return a value
+E:\advance programing\Assignment\Assignment\Assignment\Game.cpp(85): warning C4715: 'Game::getBonusAmount': not all control paths return a value
+E:\advance programing\Assignment\Assignment\Assignment\Game.cpp(126): warning C4715: 'Game::getPenaltyAmount': not all control paths return a value
+E:\advance programing\Assignment\Assignment\Assignment\Game.cpp(106): warning C4715: 'Game::getBonusType': not all control paths return a value
+E:\advance programing\Assignment\Assignment\Assignment\Game.cpp(146): warning C4715: 'Game::getPenaltyType': not all control paths return a value
+E:\advance programing\Assignment\Assignment\Assignment\Assignment.cpp(206): warning C4715: 'readSeed': not all control paths return a value
+  Assignment.vcxproj -> E:\advance programing\Assignment\Assignment\Debug\Assignment.exe
